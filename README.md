@@ -1,2 +1,2 @@
 # mini-redux-tool
-like redux in miniprogram
+已废除
